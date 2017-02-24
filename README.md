@@ -34,7 +34,7 @@ The following additional features are implemented:
  
 Here's a walkthrough of implemented user stories:
 
-<img src='C:\Users\Pragiti\Documents\AndroidCodePath\videos\TapToDo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Mobile-Apps/TapToDo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
