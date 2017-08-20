@@ -4,7 +4,7 @@ TapToDo is an android app that allows building a todo list and basic todo items 
 
 Submitted by: Mrudula Chennoju
 
-Time spent: 20 hours spent in total
+Time spent: 26 hours spent in total
 
 ## User Stories
 
